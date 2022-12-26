@@ -1,0 +1,15 @@
+---
+---
+
+@import "functions";
+@import "variables";
+@import "mixins/_breakpoints";
+
+$body-bg: #4d4d4d;
+
+#matter-canvas {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+@import "bootstrap";
